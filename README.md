@@ -4,13 +4,13 @@ Quick demonstration of scraping a website, saving its contents into a local data
 
 ## Getting Started
 
-Run -npm install
-Run mongod in a new terminal window, required mongoDB to be installed
-Run -node server.js
+-Run -npm install
+-Run mongod in a new terminal window. Note: mongoDB needs to be installed
+-Run -node server.js
 
 ## How it Works
 
-A user can create, update, and delete burgers (CRUD) from their local SQL database, this website demonstrates the MVC model in action. 
+This webaplication can scrape a predetermined websites (BBC) for specific content (All media content). Saves the relevant information and appends the info to the page which can later be saved by any user to a saved page. Any user can then write a note that can be saved for each saved article. 
 
 ## Deployment
 
@@ -22,6 +22,10 @@ Deployed Link here! : https://rocky-thicket-14057.herokuapp.com/
 * MongoDB
 * Cheerio
 * HTML
+* Express
+* Handlebars
+* Mongoose
+* Express-handlebars
 
 ## Authors
 
