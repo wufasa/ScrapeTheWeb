@@ -18,7 +18,7 @@ Deployed Link here! : https://rocky-thicket-14057.herokuapp.com/
 
 ## Built With
 
-* Bootstrap
+* Bootastrap
 * MongoDB
 * Cheerio
 * HTML
